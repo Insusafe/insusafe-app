@@ -1,0 +1,94 @@
+# 🧊 InsuSafe: The Decentralized Safety Network for Life-Saving Insulin
+
+## Smart Cooling, Verified Trust, Community-Powered.
+
+InsuSafe is an intelligent system that solves the core problem of safe insulin storage. We combine a smart cooler with the **Hedera Hashgraph** to provide verifiable safety and an incentivized community safety net.
+
+### 🌟 Project Status
+| Item | Status |
+| :--- | :--- |
+| **Submission** | Complete (Hedera Africa Hackathon) |
+| **Hardware** | Prototype (Peltier Cooling System, ESP32) |
+| **Mobile App** | Functional (Real-Time Monitoring, Alerts) |
+| **Hedera Integration** | Implemented (Data Logging & Community Support) |
+
+---
+
+## 💡 The Problem & Our Solution
+
+### **The Problem**
+Insulin must be stored between **$2^{\circ}C$ and $8^{\circ}C$** to be effective. For millions of patients, simple coolers are unreliable, leading to **30% of insulin losses** and causing anxiety.
+
+### **The InsuSafe Solution**
+InsuSafe provides a three-part system for complete safety:
+
+1.  **Precision Cooling:** A **Peltier system** actively maintains the safe temperature range.
+2.  **Real-Time Monitoring:** A **Flutter mobile app** shows temperature and battery status instantly.
+3.  **Decentralized Safety:** **Hedera** secures data and powers a fast, reliable community help network.
+
+---
+
+## ✨ Key Features & Hedera Innovation
+
+Our integration with Hedera Hashgraph is the **competitive edge** of this project.
+
+| Feature | Value Proposition | Hedera Integration |
+| :--- | :--- | :--- |
+| **Immutable Storage Logs** | Every temperature reading is recorded immutably, guaranteeing the insulin's quality and preventing data tampering. | **Data Integrity:** Logs stored permanently on Hedera. |
+| **The Safety Node** | Allows patients to securely and **anonymously** ask nearby InsuSafe users for emergency help. | **Community Network:** Hedera enables private, proximity-based patient connection. |
+| **Incentivized Support** | Helpers are **instantly rewarded** for successful aid, ensuring a fast and reliable community response. | **Transactions:** Uses Hedera for fast, low-cost reward payouts. |
+
+---
+
+## 🛠 Tech Stack & System Architecture
+
+| Layer | Key Components |
+| :--- | :--- |
+| **Hardware** | **ESP32** Microcontroller, **Peltier Module**, DHT11 Sensor. |
+| **Software** | **Flutter** (Mobile App), **Bluetooth** (Connectivity). |
+| **Web3** | **Hedera Hashgraph** (Data Storage and Community transactions). |
+
+---
+
+## 🚀 Getting Started (Setup)
+
+### **1. Prerequisites**
+* Flutter SDK
+* Dart
+* VS Code / Android Studio
+
+### **2. Run the Mobile App**
+1.  Clone the repository: `git clone [Your Repository URL Here]`
+2.  Install dependencies: `flutter pub get`
+3.  Run: `flutter run` (Use a simulator or physical device).
+
+### **3. Hardware Simulation Note**
+* The application runs a **simulated data stream** to demonstrate real-time temperature monitoring and alerts for the judges.
+
+---
+
+## 🤝 Team
+
+A multidisciplinary team combining hardware, software, and cybersecurity expertise.
+
+| Name | Role | Focus | Field of Study |
+| :--- | :--- | :--- | :--- |
+| **Abdelmoghit Amhidi** | Leader | Secure Workflow, **Hedera Integration**. | Cyber Security. |
+| **Zeroual Nisrine** | Mobile Developer | Flutter App, Real-time Monitoring Features. | Mobile Development. |
+| **Nasrallah Ouazzani Chahdi** | Hardware Engineer | Electronics Integration, Microcontrollers. | Artificial Intelligence. |
+| **Aymen Labzouzi** | Hardware Engineer | Project Coordination and Security Standards. | Cyber Security. |
+
+---
+
+## **FINAL MANDATORY SUBMISSION LINKS**
+
+**Please replace the placeholders below with your actual links:**
+
+* **Pitch Deck Link:** \[INSERT YOUR PUBLIC CANVA LINK HERE]
+* **Certification Links (if any):** \[Insert other mandatory certification links here]
+
+### **MANDATORY JUDGING STEP:**
+
+You **MUST** invite the judging system as a collaborator on this GitHub repo:
+
+**Email to Invite:** `Hackathon@hashgraph-association.com`
